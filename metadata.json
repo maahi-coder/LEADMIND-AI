@@ -1,0 +1,7 @@
+{
+  "name": "LeadMind AI",
+  "description": "An AI-powered lead generator that intelligently scrapes Google Maps to find targeted businesses. Features a stunning glassmorphism UI, animated results, and an integrated webhook system to send leads directly to n8n or other automation platforms.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
